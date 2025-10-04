@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Fiber_Optic")(type "KiCad")(uri "${KIPRJMOD}/lib/FiberOptic.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector_Wage_SMD")(type "KiCad")(uri "${KIPRJMOD}/lib/Connector_Wage_SMD.kicad_sym")(options "")(descr ""))
+)
