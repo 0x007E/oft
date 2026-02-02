@@ -47,6 +47,7 @@ outputs:
       columns:
         - Row
         - References
+        - Value
         - Footprint
         - field: Vendor
           name: Vendor

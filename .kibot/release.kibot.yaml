@@ -48,6 +48,7 @@ outputs:
         - Row
         - References
         - Footprint
+        - Value
         - field: Vendor
           name: Vendor
         - field: VendorId
