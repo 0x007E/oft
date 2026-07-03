@@ -400,7 +400,7 @@
 		(layer "F.Cu")
 		(uuid "6f4a17f2-027b-4a18-b8a2-1e64e4037f4c")
 		(at 150.241 79.502)
-		(property "Reference" "FID4"
+		(property "Reference" "FID1"
 			(at 0 3.81 0)
 			(unlocked yes)
 			(layer "F.SilkS")

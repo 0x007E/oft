@@ -4140,7 +4140,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2c4eb4b6-02bf-428b-8ed9-2b2ffd680f30")
-		(property "Reference" "FID4"
+		(property "Reference" "FID1"
 			(at 151.13 175.26 0)
 			(effects
 				(font
@@ -4187,7 +4187,7 @@
 		(instances
 			(project "OFT"
 				(path "/9334361a-f7a5-4302-90e9-4b89798c8fc6"
-					(reference "FID4")
+					(reference "FID1")
 					(unit 1)
 				)
 			)
