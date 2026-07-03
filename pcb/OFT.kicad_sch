@@ -5948,7 +5948,7 @@
 		(dnp no)
 		(uuid "b15993f4-d522-41f6-b33b-0ee489df2f91")
 		(property "Reference" "J1"
-			(at 32.385 177.8 0)
+			(at 30.48 168.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5961,6 +5961,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal"
