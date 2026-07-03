@@ -66,7 +66,7 @@ The `OFT` is powerd with `5V`. The `RX` pin serves as an output and stores the r
 #      O |   +--+--+      | GND +---+ GND | T  +-+      |      | +-----------------+ |
 #      O |      |         +-----+   +-----+   / /       |      |                     |
 #      P |   +--+--+      | RXD +---+ RXD | +-+-+-+-----+      | Computer            |
-#      B +---+ ORX |      | TXD +---+ TXD | | 5V  | 3V3 |      |                     |
+#      B +---+ OTX |      | TXD +---+ TXD | | 5V  | 3V3 |      |                     |
 #      A     +--+--+      +--+--+   +--+--+ +-----+-----+      +---------------------+
 #      C       |             |
 #      K       +-------------+                                            
