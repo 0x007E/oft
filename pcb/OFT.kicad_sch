@@ -6482,7 +6482,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2k2"
+		(property "Value" "1k"
 			(at 100.33 58.42 90)
 			(effects
 				(font
@@ -6516,7 +6516,7 @@
 				)
 			)
 		)
-		(property "HTL" "102956"
+		(property "HTL" "102951"
 			(at 97.79 58.42 90)
 			(effects
 				(font

@@ -6823,7 +6823,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "2k2"
+		(property "Value" "1k"
 			(at 3.3675 0 90)
 			(layer "B.Fab")
 			(uuid "3c91c443-1590-49d0-83be-82371be2363d")
@@ -6885,7 +6885,7 @@
 				(justify mirror)
 			)
 		)
-		(property "HTL" "102956"
+		(property "HTL" "102951"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
